@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lozetjulien@gmail.com
+	name = julien lozet
